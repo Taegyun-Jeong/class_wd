@@ -40,5 +40,8 @@ git push origin master
 9. pages
 
 10. GitHub Pages => Branch => master => Save
+    1 ~ 3분 기다리고 새로고침
+    배포주소 생성.
+    https://taegyun-jeong.github.io/class_wd/
 
 https://moonjongjs.github.io/week8_photograpy/#wrap
